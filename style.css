@@ -22,17 +22,17 @@ img{
 }
 
 h1,h2{
-font-size: 20px;
-margin-left: 15px;
-color: white;
-text-align: left;
+    font-size: 20px;
+    margin-left: 15px;
+    color: white;
+    text-align: left;
 }
 
 p{
- text-align: left;   
- margin-left: 15px;
- color: white;
- line-height: 25px;
+    text-align: left;   
+    margin-left: 15px;
+    color: white;
+    line-height: 25px;
 }
 
 .p2{
